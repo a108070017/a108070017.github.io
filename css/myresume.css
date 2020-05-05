@@ -29,12 +29,14 @@ h1 .text-primary {
 	color: #33B2FF !important;
 }
 .card-1 {
-    width: 600px;
-    height: 400px;
-    border: 10px dotted #6495ED;
-    border-radius: 10px;
-    padding: 5px;
-    margin: 7px;
+	margin:5px;
+	border:1px solid;
+	float:center;
+	width:250px;
+}
+.card-1 img{
+	width:100%;
+	height:auto;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
