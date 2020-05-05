@@ -44,8 +44,7 @@ h1 .text-primary {
     border-radius: 10px;
     padding: 5px;
     margin: 7px;
-    border-style:solid dashed
-    border-color:#D6FE1E
+    border-style:solid dashed #D6FE1E
 }
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
