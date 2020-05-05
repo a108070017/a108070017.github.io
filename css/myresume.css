@@ -28,6 +28,14 @@ h1 .text-primary {
 .text-primary {
 	color: #33B2FF !important;
 }
+.card-1 {
+    width: 600px;
+    height: 400px;
+    border: 10px dotted #6495ED;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 7px;
+}
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
