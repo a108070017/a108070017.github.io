@@ -39,7 +39,7 @@ h1 .text-primary {
 	height:auto;
 }
 .card-1 {
-    width: 600px;
+    width: auto;
     border: 10px solid #D6FE1E;
     border-radius: 10px;
     padding: 5px;
@@ -47,8 +47,7 @@ h1 .text-primary {
     border-style:solid dashed;
     border-color:#B7FF4A
 }
-h6 class{
-	background-color:#97CBFF
+
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
