@@ -46,6 +46,8 @@ h1 .text-primary {
     margin: 7px;
     border-style:solid dashed
 }
+row text-lgleft{
+	background-color:#97CBFF
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
