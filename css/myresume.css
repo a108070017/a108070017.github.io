@@ -45,7 +45,8 @@ h1 .text-primary {
     padding: 5px;
     margin: 7px;
     border-style:solid dashed;
-    border-color:#B7FF4A
+    border-color:#79FF79;
+    background-color:#DCB5FF;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
