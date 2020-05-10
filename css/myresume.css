@@ -47,7 +47,9 @@ h1 .text-primary {
     border-style:solid dashed;
     border-color:#79FF79;
 }
-
+.tin{
+    background-color: #33B2FF;	
+}
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
