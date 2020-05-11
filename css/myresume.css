@@ -47,6 +47,9 @@ h1 .text-primary {
     border-style:solid dashed;
     border-color:#8b4513;
 }
+font{
+    background-color:#ffd700;
+}
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
