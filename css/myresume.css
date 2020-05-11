@@ -39,9 +39,8 @@ h1 .text-primary {
 	height:75%;
 }
 .card-1 {
-    width:auto;
-    border: 10px solid #D6FE1E;
-    border-radius: 10px;
+    border: 6px solid #D6FE1E;
+    border-radius: 6px;
     padding: 5px;
     margin: 7px;
     border-style:solid dashed;
