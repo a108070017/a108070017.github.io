@@ -47,6 +47,10 @@ h1 .text-primary {
     border-style:solid dashed;
     border-color:#8b4513;
 }
+.card title{
+    background-color:#ffd700;
+}
+
 font1{
     background-color:#ffd700;
 }
