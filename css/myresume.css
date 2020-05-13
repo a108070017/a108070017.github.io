@@ -55,7 +55,7 @@ div#flex_a{
 	flex-wrap: wrap;
 	flex-direction: row;
 }
-.p{
+p{
     background-color:#ffd700;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
