@@ -49,11 +49,11 @@ h1 .text-primary {
 .card.title{
     background-color:#9acd32;
 }
-#flex_card-1{
-        display: flex;
-	justify-content: flex-start;
-	flex-wrap: wrap;
-	flex-direction: row;
+div#flex_abc{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 p5{
     background-color:#ffd700;
