@@ -34,12 +34,7 @@ div.amy {
     width: 300px;
     background-color: #E8FFE8;
 }
-}
-div.amy img {
-   width:auto;
-  margin: 0 auto;
-	
-}
+
 div.amy {
     border:6px solid #D6FE1E;
     border-radius: 6px;
@@ -161,6 +156,11 @@ div.zht {
     padding-left: 70px;
     padding-right: 25px;
   }
+div.amy img {
+   width:auto;
+  margin: 0 auto;
+	
+}
   
   /* Make all right containers behave like the left ones */
   .timeline-right {
