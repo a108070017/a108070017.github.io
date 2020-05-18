@@ -49,7 +49,10 @@ h1 .text-primary {
 .card.title{
     background-color:#9acd32;
 }
-
+div.zht {
+    padding: 0;
+    text-align: center;
+}
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
