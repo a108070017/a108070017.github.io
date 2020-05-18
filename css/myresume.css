@@ -49,12 +49,7 @@ h1 .text-primary {
 .card.title{
     background-color:#9acd32;
 }
-div#flex_card-1{
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    flex-direction: row;
-}
+
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
@@ -81,6 +76,13 @@ p5{
 
 .graph_set {
 	margin-top: 3rem;
+}
+
+div#flex_card-1{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .small-text {
