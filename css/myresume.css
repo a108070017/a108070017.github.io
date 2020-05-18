@@ -49,10 +49,7 @@ h1 .text-primary {
 .card.title{
     background-color:#9acd32;
 }
-div.zht {
-    padding: 0;
-    text-align: center;
-}
+
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
@@ -90,6 +87,11 @@ div#flex_card-1{
 
 .small-text {
 	font-size: 1.2rem;
+}
+
+div.zht {
+    padding: 0;
+    text-align: center;
 }
 
 .timeline {
