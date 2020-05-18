@@ -157,9 +157,9 @@ div.zht {
     padding-right: 25px;
   }
 div.amy img {
-   width: 100%;
-  height: 100%;
-	
+   display: block;
+  width: 100%;
+  height: auto;
 }
   
   /* Make all right containers behave like the left ones */
