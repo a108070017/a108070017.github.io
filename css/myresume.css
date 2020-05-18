@@ -81,7 +81,9 @@ div#flex_amy{
     flex-wrap: wrap;
     flex-direction: row;
 }
-
+div.amy img{
+	width:100%;
+}
 .small-text {
 	font-size: 1.2rem;
 }
@@ -156,11 +158,6 @@ div.zht {
     padding-left: 70px;
     padding-right: 25px;
   }
-div.amy img {
-   display: block;
-  width: 100%;
-  height: auto;
-}
   
   /* Make all right containers behave like the left ones */
   .timeline-right {
