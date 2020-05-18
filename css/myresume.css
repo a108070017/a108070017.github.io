@@ -37,10 +37,11 @@ div.amy {
 }
 img.works {
     width: 100%;
+	
 }
 div.amy {
     border: 8px solid #D6FE1E;
-    border-radius: 8px;
+    border-radius: 6px;
     padding: 7px;
     margin: 9px;
     border-style:solid dashed;
@@ -80,7 +81,7 @@ p5{
 
 div#flex_amy{
     display: flex;
-    justify-content: flex-start;
+    justify-content:space-around;
     flex-wrap: wrap;
     flex-direction: row;
 }
