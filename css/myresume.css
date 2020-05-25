@@ -158,7 +158,10 @@ div.zht {
     padding-left: 70px;
     padding-right: 25px;
   }
-  
+  .table .thead th {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
   /* Make all right containers behave like the left ones */
   .timeline-right {
     left: 0%;
