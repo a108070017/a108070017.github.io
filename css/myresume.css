@@ -117,13 +117,23 @@ div.zht {
   width: 50%;
 }
 
-.social-icons{
-    color: #cc8800;
+.social-icons a{
+    background-color: #cc8800;
     background-repeat: repeat;
     background-position: top left;
     background-image: url(https://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
 }
-
+.social-icons a {
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    color: #fff!important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+}
 /* The circles on the timeline */
 .timeline-block::after {
   content: '';
