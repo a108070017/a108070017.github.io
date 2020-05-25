@@ -119,6 +119,13 @@ div.zht {
   background-color: inherit;
   width: 50%;
 }
+a{
+    color: #5E5E5E;
+    background-color: #d6b4d9!important;
+    background-repeat: repeat;
+    background-position: top left;
+    background-image: url(https://www.transparenttextures.com/patterns/food.png);
+}
 
 /* The circles on the timeline */
 .timeline-block::after {
