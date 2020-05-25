@@ -43,6 +43,12 @@ div.amy {
     border:6px solid #D6FE1E;
     border-radius: 6px;
 }
+div. {
+    margin: 5px;
+    float: center;
+    width: 300px;
+    background-color: #DCDDDE;
+}
 .card.title{
     background-color:#f5c7c7;
 }
