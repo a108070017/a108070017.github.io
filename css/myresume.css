@@ -158,7 +158,7 @@ div.zht {
     padding-left: 70px;
     padding-right: 25px;
   }
-  .table .thead th {
+  .table .thead table-hover th {
     color: #fff;
     background-color: #343a40;
     border-color: #454d55;
