@@ -59,10 +59,7 @@ a {
 a:active, a:focus, a:hover {
 	color: #33B2FF ;
 }
-p5{
-    background-color:#ffd700;
-    color:#000000；
-}
+
 .social-icons a:hover {
 	background-color: #33B2FF ;
 }
@@ -119,7 +116,8 @@ div.zht {
   background-color: inherit;
   width: 50%;
 }
-a{
+
+p5{
     color: #5E5E5E;
     background-color: #cc8800!important;
     background-repeat: repeat;
