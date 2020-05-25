@@ -97,7 +97,11 @@ div.zht {
   position: relative;
   margin: 0 auto;
 }
-
+ .table .thead table table-hover th {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
+}
 .timeline::after {
   content: '';
   background-color: #33B2FF ;
@@ -158,10 +162,7 @@ div.zht {
     padding-left: 70px;
     padding-right: 25px;
   }
-  .table .thead table-hover th {
-    color: #fff;
-    background-color: #343a40;
-    border-color: #454d55;
+ 
   /* Make all right containers behave like the left ones */
   .timeline-right {
     left: 0%;
