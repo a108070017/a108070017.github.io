@@ -100,7 +100,14 @@ div.zht {
   position: relative;
   margin: 0 auto;
 }
- .table .thead table table-hover th {
+ .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+
+
+  .table thead th{
     color: #fff;
     background-color: #343a40;
     border-color: #454d55;
